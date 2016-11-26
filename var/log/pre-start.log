@@ -1,0 +1,24 @@
+resize2fs 1.42.9 (4-Feb-2014)
+The filesystem is already 3929900 blocks long.  Nothing to do!
+
+650000+0 records in
+650000+0 records out
+665600000 bytes (666 MB) copied, 53.2852 s, 12.5 MB/s
+Setting up swapspace version 1, size = 649996 KiB
+no label, UUID=2b975076-5ed8-47a6-8c00-e5f62bddb4bb
+micro
+
+#########################################################################
+#                                                                       #
+#        Setting Bitnami application password to 'MWeh7cI4G6md'         #
+#                                                                       #
+#########################################################################
+
+[Thu Nov 17 15:14:11 UTC 2016] Regenerating keys for wordpress
+[Thu Nov 17 15:14:18 UTC 2016] Regenerating keys for wordpress finished
+[Thu Nov 17 15:14:18 UTC 2016] Finished regenerating keys
+[Thu Nov 17 15:14:18 UTC 2016] Setting up password for mysql service
+[Thu Nov 17 15:14:41 UTC 2016] Setting up password for mysql service finished
+[Thu Nov 17 15:14:41 UTC 2016] Setting up password for wordpress application
+[Thu Nov 17 15:14:47 UTC 2016] Setting up password for wordpress application finished
+[Thu Nov 17 15:14:47 UTC 2016] Finished setting password
