@@ -295,7 +295,7 @@ if ( ! function_exists( 'moesia_nav_bar' ) ) {
 function moesia_nav_bar() {
 	echo '<div class="top-bar">
 			<div class="container">
-				<div class="site-branding col-md-4">';
+				<div class="site-branding col-md-5">';
 				if ( get_theme_mod('site_logo') ) :
 					echo '<a href="' . esc_url( home_url( '/' ) ) . '" title="';
 						bloginfo('name');
