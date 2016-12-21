@@ -1,7 +1,7 @@
-apache2/var/cache
-apache2/logs
+apache2/var/cache/
+apache2/logs/
 stats/agent.log
 mysql/data/mysqld.log-*
+mysql/data/**/*.ibd
 php/var/log/php-fpm.log-*
-
 
