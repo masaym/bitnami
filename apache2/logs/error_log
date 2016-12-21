@@ -1,4 +1,0 @@
-[Tue Nov 22 15:21:26.569024 2016] [authz_core:error] [pid 3296:tid 140017779160832] [client 191.96.249.42:60941] AH01630: client denied by server configuration: /opt/bitnami/apps/phpmyadmin/htdocs/scripts
-[Thu Nov 24 06:20:05.292343 2016] [authz_core:error] [pid 3295:tid 140017737197312] [client 111.20.195.183:2529] AH01630: client denied by server configuration: /opt/bitnami/apps/phpmyadmin/htdocs, referer: http://52.199.145.76/phpmyadmin
-[Thu Nov 24 20:34:50.112757 2016] [authz_core:error] [pid 3295:tid 140017921836800] [client 218.242.168.130:4630] AH01630: client denied by server configuration: /opt/bitnami/apps/phpmyadmin/htdocs/index.php
-[Fri Nov 25 08:27:53.980882 2016] [authz_core:error] [pid 3295:tid 140017888265984] [client 179.43.141.241:38890] AH01630: client denied by server configuration: /opt/bitnami/apps/phpmyadmin/htdocs/scripts
